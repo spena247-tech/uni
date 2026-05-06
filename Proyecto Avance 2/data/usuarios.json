@@ -1,0 +1,64 @@
+{
+    "usuarios": {
+        "admin": {
+            "usuario": "admin",
+            "correo": "admin@system.local",
+            "contraseña": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+            "semestre": "N/A",
+            "uid": "ADMIN0000",
+            "modalidad": "virtual",
+            "programa": "Programa no especificado",
+            "creditos_totales": 150,
+            "fecha_registro": "2026-05-04T21:47:46.655368",
+            "es_admin": true
+        },
+        "testuser": {
+            "usuario": "testuser",
+            "correo": "test@example.com",
+            "contraseña": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+            "semestre": "2025-1",
+            "uid": "123456789",
+            "modalidad": "presencial",
+            "programa": "Ingeniería de Sistemas",
+            "creditos_totales": 150,
+            "fecha_registro": "2026-05-04T21:48:13.520611",
+            "es_admin": false
+        },
+        "SebastianPena247": {
+            "usuario": "SebastianPena247",
+            "correo": "spena247@unab.edu.co",
+            "contraseña": "479cc2cacc7e1880191bca75ccd3d5012dba08157f7f9ae8ef580495d86ea014",
+            "semestre": "2026-1",
+            "uid": "U00188598",
+            "modalidad": "presencial",
+            "programa": "Ingenieria de sistemas",
+            "creditos_totales": 150,
+            "fecha_registro": "2026-05-04T22:04:13.391320",
+            "es_admin": true
+        },
+        "testuser2": {
+            "usuario": "testuser2",
+            "correo": "test2@example.com",
+            "contraseña": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+            "semestre": "2025-1",
+            "uid": "987654321",
+            "modalidad": "presencial",
+            "programa": "Ingeniería Civil",
+            "creditos_totales": 160,
+            "fecha_registro": "2026-05-04T22:11:14.427504",
+            "es_admin": false
+        },
+        "testuser3": {
+            "usuario": "testuser3",
+            "correo": "test3@example.com",
+            "contraseña": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+            "semestre": "2025-1",
+            "uid": "111111111",
+            "modalidad": "presencial",
+            "programa": "Medicina",
+            "creditos_totales": 180,
+            "fecha_registro": "2026-05-04T22:17:28.020664",
+            "es_admin": false
+        }
+    }
+}
