@@ -1,0 +1,93 @@
+{
+    "usuarios": {
+        "testuser": {
+            "creditos": [
+                {
+                    "nombre": "Matemáticas Básicas",
+                    "codigo": "MAT101",
+                    "creditos": 3,
+                    "nota": 4.5,
+                    "periodo": "2025-1",
+                    "es_optativa": false
+                }
+            ],
+            "usuario": {
+                "nombre": "testuser",
+                "programa": "Ingeniería de Sistemas",
+                "semestre_actual": "2025-1",
+                "modalidad": "presencial",
+                "foto": "[Foto de perfil]",
+                "fecha_creacion": "2026-05-04T21:48:35.144359"
+            },
+            "eventos": [],
+            "metas": [],
+            "auditoria": [
+                {
+                    "timestamp": "2026-05-04T21:56:28.118753",
+                    "accion": "crear",
+                    "detalles": "Materia agregada: Matemáticas Básicas",
+                    "usuario": "Sistema"
+                }
+            ]
+        },
+        "admin": {
+            "creditos": [],
+            "usuario": {
+                "nombre": "admin",
+                "programa": "Programa no especificado",
+                "semestre_actual": "N/A",
+                "modalidad": "virtual",
+                "foto": "[Foto de perfil]",
+                "fecha_creacion": "2026-05-04T21:58:25.827804"
+            },
+            "eventos": [],
+            "metas": [],
+            "auditoria": []
+        },
+        "SebastianPena247": {
+            "creditos": [],
+            "usuario": {
+                "nombre": "SebastianPena247",
+                "programa": "Ingenieria de sistemas",
+                "semestre_actual": "2026-1",
+                "modalidad": "presencial",
+                "creditos_totales": 150,
+                "foto": "[Foto de perfil]",
+                "fecha_creacion": "2026-05-04T22:05:15.465193"
+            },
+            "eventos": [],
+            "metas": [],
+            "auditoria": []
+        },
+        "testuser2": {
+            "creditos": [],
+            "usuario": {
+                "nombre": "testuser2",
+                "programa": "Ingeniería Civil",
+                "semestre_actual": "2025-1",
+                "modalidad": "presencial",
+                "creditos_totales": 160,
+                "foto": "[Foto de perfil]",
+                "fecha_creacion": "2026-05-04T22:11:45.957462"
+            },
+            "eventos": [],
+            "metas": [],
+            "auditoria": []
+        },
+        "testuser3": {
+            "creditos": [],
+            "usuario": {
+                "nombre": "testuser3",
+                "programa": "Medicina",
+                "semestre_actual": "2025-1",
+                "modalidad": "presencial",
+                "creditos_totales": 180,
+                "foto": "[Foto de perfil]",
+                "fecha_creacion": "2026-05-04T22:17:57.475619"
+            },
+            "eventos": [],
+            "metas": [],
+            "auditoria": []
+        }
+    }
+}
