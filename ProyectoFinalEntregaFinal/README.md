@@ -11,4 +11,4 @@ Este proyecto fue desarrollado como parte de la materia "Programación de Comput
 
 Contacto y uso
 
-Este repositorio contiene la implementación del sistema de seguimiento de créditos. Ejecute el archivo `creditTracker.py` dentro de la carpeta `proyecto/persistencia` para iniciar la aplicación.
+Este repositorio contiene la implementación del sistema de seguimiento de créditos. Ejecute el archivo `creditTracker.py` dentro de la carpeta `ProyectoFinalEntregaFinal/` para iniciar la aplicación, ejecutar preferiblemente en IDLE.
