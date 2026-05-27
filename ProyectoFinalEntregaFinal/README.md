@@ -11,5 +11,9 @@ Este proyecto fue desarrollado como parte de la materia "Programación de Comput
 
 Contacto y uso
 
-recomiendo descargar el zip en la carpeta de ZIP para agilizar el proceso.
+Esta es una vista previa de como es nuestro trabajo.
+
+
+Si desea descargar el todo el archivo, recomiendo descargar el zip en la carpeta de ZIP para agilizar el proceso.
+
 Este repositorio contiene la implementación del sistema de seguimiento de créditos. Ejecute el archivo `creditTracker.py` dentro de la carpeta `ProyectoFinalEntregaFinal/` para iniciar la aplicación, ejecutar preferiblemente en IDLE.
