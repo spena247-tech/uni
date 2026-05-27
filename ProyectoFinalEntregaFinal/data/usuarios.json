@@ -1,0 +1,40 @@
+{
+    "usuarios": {
+        "admin": {
+            "usuario": "admin",
+            "correo": "admin@system.local",
+            "contraseña": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+            "semestre": "N/A",
+            "uid": "ADMIN0000",
+            "modalidad": "virtual",
+            "programa": "Programa no especificado",
+            "creditos_totales": 150,
+            "fecha_registro": "2026-05-04T21:47:46.655368",
+            "es_admin": true
+        },
+        "testuser": {
+            "usuario": "testuser",
+            "correo": "test@example.com",
+            "contraseña": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+            "semestre": "2025-1",
+            "uid": "123456789",
+            "modalidad": "presencial",
+            "programa": "Ingeniería de Sistemas",
+            "creditos_totales": 150,
+            "fecha_registro": "2026-05-04T21:48:13.520611",
+            "es_admin": false
+        },
+        "SebastianPena247": {
+            "usuario": "SebastianPena247",
+            "correo": "spena247@unab.edu.co",
+            "contraseña": "e2f40136e7f7eea55c590c497992d3e279e2d6bf9718959122db48af6d732116",
+            "semestre": "2026-1",
+            "uid": "U00188598",
+            "modalidad": "presencial",
+            "programa": "Ingenieria de sistemas",
+            "creditos_totales": 150,
+            "fecha_registro": "2026-05-04T22:04:13.391320",
+            "es_admin": true
+        }
+    }
+}
